@@ -9,7 +9,7 @@ pip install - r requirements.txt
 
 ## Jupyter Notebook
 
-The Jupyter Notebook contains all the steps of the solution and is divided in 4 main parts:
+The Jupyter Notebook ```Descartes_Underwriting_Test.ipynb``` contains all the steps of the solution and is divided in 4 main parts:
 * Feature engineering and data exploration 
 * Pre-Processing
 * Models
